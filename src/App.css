@@ -1,1 +1,9 @@
-
+.logOut {
+    background-color: transparent;
+    color: lightgray;
+    margin-top: 7px;
+    font-size: 25px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
